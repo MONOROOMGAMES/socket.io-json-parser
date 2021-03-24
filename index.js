@@ -1,8 +1,7 @@
 
 var Emitter = require('component-emitter');
 
-exports.protocol = 5;
-
+exports.protocol = 3;
 /**
  * Packet types (see https://github.com/socketio/socket.io-protocol)
  */
